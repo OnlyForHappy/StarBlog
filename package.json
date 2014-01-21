@@ -1,7 +1,0 @@
-{
-  "name": "learn",
-  "dependencies": {
-    "colors": "~0.6.2",
-    "express": "~3.4.7"
-  }
-}
